@@ -1,4 +1,4 @@
-# MCMOT_ByteTrack-ReID-jetson-Nano-
+# MCMOT_ByteTrack-ReID-Jetson-Nano
 Để chạy model MCMOT+ReID trên Jetson : 
 1. Cài đặt hệ điều hành ubuntu cho jetson 
 2. Cài đặt môi trường biên dịch python 
