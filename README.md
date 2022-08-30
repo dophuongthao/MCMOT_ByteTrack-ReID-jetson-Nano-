@@ -19,3 +19,4 @@ python3 /content/MCMOT-ByteTrack/tools/demo_mcmot.py --path /content/gdrive/MyDr
 python3 "đường dẫn file demo_track_CPU.py"  video --path "đường dẫn video"-f " đường dẫn đến file yolox_tiny_track_c5_darknet.py"-c "đường dẫn đến file latest_ckpt.pth.tar" --fp32 --fuse --save_result " đường dẫn lưu video kết quả" &> log.txt
 
 Tải weight tại  : https://drive.google.com/file/d/1CFiRkLrvuWacX6NqkFDBbcMBNCrEoz6h/view?usp=sharing
+Thay thế các file
